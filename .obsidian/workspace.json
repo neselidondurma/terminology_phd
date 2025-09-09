@@ -11,13 +11,60 @@
             "id": "79bed1d455d6b51e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
+            }
+          },
+          {
+            "id": "a85ed0a1993a88cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "template"
+            }
+          },
+          {
+            "id": "68cea7d33bef6ef0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "template"
+            }
+          },
+          {
+            "id": "769925204311f86b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Terms/Methods/SVR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SVR"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -90,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01_Terms/Methods/SVR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for SVR"
             }
           },
           {
@@ -108,11 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01_Terms/Methods/SVR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from SVR"
             }
           },
           {
@@ -136,12 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01_Terms/Methods/SVR.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of SVR"
             }
           }
         ]
@@ -161,8 +211,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ba89a4fb49ba33f",
+  "active": "769925204311f86b",
   "lastOpenFiles": [
+    "Templates/template.md",
+    "01_Terms/Methods/SVR.md",
+    "Templates",
     "README.md"
   ]
 }
