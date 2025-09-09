@@ -10,7 +10,7 @@ I believe that science should be **transparent, accessible, and reproducible**. 
 ---
 
 ## 🧑‍🔬 About me
-I’m a **first-year Ph.D. student** at the [International Max Planck Research School for Intelligent Systems (IMPRS-IS)](https://imprs.is.mpg.de/), [Hertie Institute for AI in Brain Health](https://www.hih-tuebingen.de/en/research/research-groups/research-groups/hertie-institute-for-ai-in-brain-health/), and [University of Tübingen](https://uni-tuebingen.de/en/).  
+I’m a **first-year Ph.D. student** at the [International Max Planck Research School for Intelligent Systems (IMPRS-IS)](https://imprs.is.mpg.de/scholars), [Hertie Institute for AI in Brain Health](https://hertie.ai/clinical-implementation/team), and [University of Tübingen].  
 
 My research focuses on:
 - **Digital biomarkers** for the **early detection of neuropsychological diseases**  
@@ -33,3 +33,8 @@ Each note is written in Markdown so it’s easy to reuse in Obsidian, Jupyter, o
 - Browse notes directly in GitHub, or clone the repo:  
   ```bash
   git clone https://github.com/<your-username>/<repo-name>.git
+
+
+## How to reach out 
+
+- Please use [LinkedIn](https://linkedin.com/in/serli-kopar-05599b232/de?originalSubdomain=de) or [E-Mail](mailto:serlikopar@uni-tuebingen.de)
