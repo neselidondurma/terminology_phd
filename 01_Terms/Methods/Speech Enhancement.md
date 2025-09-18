@@ -3,7 +3,15 @@ tags: [#term, #formula, #ml, #neuro, #math]
 created: 18-09-2025
 --- 
 ## 🔹 Definition / Formula
-- : Speech enhancement is a signal processing technique that aims to improve the quality and intelligibility of a speech signal. This is typically done by reducing or removing unwanted noise, reverberation, and other distortions from an audio recording while preserving the original speech content.
+- : Combination of 4 common areas 
+	- **Denoising** → removing background noise
+	    
+	- **Dereverberation** → removing reverberation/echo
+	    
+	- **Source separation** → separating multiple speakers/sources
+	    
+	- **Diarization** → segmenting speech by speaker identity
+
 - x(t)=s(t)+n(t), where x(t) is the observed noisy speech signal, s(t) is the clean speech signal, and n(t) is the unwanted noise. The goal of speech enhancement is to estimate the clean speech signal, s^(t), from the noisy observation x(t), such that s^(t)≈s(t).
 
   
