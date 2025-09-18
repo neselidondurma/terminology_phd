@@ -1,5 +1,5 @@
 --- 
-tags: [#term, #formula, #ml, #neuro, #math]
+tags: [ #speech]
 created: 18-09-2025
 --- 
 ## 🔹 Definition / Formula
