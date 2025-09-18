@@ -1,5 +1,5 @@
 --- 
-tags: [#neuro]
+tags: [#neuro #math ]
 created: 16-09-2025
 --- 
 ## 🔹 Definition / Formula

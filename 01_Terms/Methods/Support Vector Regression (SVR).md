@@ -3,7 +3,7 @@ tags: [#linear_method]
 created: 09-09-2025
 --- 
 
-# Support Vector Regression (SVR)
+
 ## 🔹 Definition / Formula
 -  **Definition**: SVR is a regression method based on Support Vector Machines that aims to find a function $f(x)$ that deviates from the observed targets $y_i$ by at most $\epsilon$, while being as flat as possible. 
 	**Optimization problem**:  
