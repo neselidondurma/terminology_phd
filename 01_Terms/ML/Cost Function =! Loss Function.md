@@ -24,7 +24,7 @@ Intuitively, it acts like a "discomfort signal": the larger the error between pr
 
 In practice:
 - **Loss** = error for one example
-- **Cost** = average loss over all examples --> can also include the regularisation 
+- **Cost** = average loss over all examples 
 
 For categorical cross-entropy:
 - **Loss**: $L(y^{(i)}, \hat{y}^{(i)}) = -\sum_{j=1}^{K} y_j^{(i)} \log(\hat{y}_j^{(i)})$ (for example $i$)
