@@ -21,7 +21,7 @@ Optimizers are algorithms that adjust model parameters to minimize the objective
 ## 🔹 Relationship with Loss, Cost, and Objective Functions
 
 - **Loss Function**: Provides error signal per example → gradients
-- **Cost Function**: Average loss across dataset → overall gradient direction  
+- **Cost Function**: Average loss across dataset → overall gradient direction  → OPTIMISER TRIES TO MINIMISE THE COST FUNCTION
 - **Objective Function**: Cost + regularization → what we actually optimize
 - **Optimizer**: Determines *how* to update parameters based on gradients from objective function
 
