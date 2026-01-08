@@ -3,6 +3,7 @@ tags: [#ml]
 created: 18-09-2025
 --- 
 ## 🔹 Definition / Formula
+- Speech --> Text
 - : P(W∣O) is the probability of a word sequence
 	- **W** given an acoustic observation sequence
 	- **O**. This is often modeled using the
@@ -11,7 +12,7 @@ created: 18-09-2025
 			- P(W) is the **language model**, 
 			- P(O) is the evidence.
 
-  
+  ![[Pasted image 20251105144901.png]]
 ## 🔹 Explanation (in my words)
 -  Automatic Speech Recognition is a technology that converts spoken words into text. It's essentially the process of a computer listening to a person speak and transcribing what they said.
     
